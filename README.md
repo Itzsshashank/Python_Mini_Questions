@@ -1,13 +1,32 @@
-# Employee Class Exercise
+# Python Coding Questions and Solutions
+Welcome to the Python Coding Questions and Solutions repository! This repository is a collection of coding questions and their solutions implemented in the Python programming language.
 
-Create a class called `Employee` that represents an employee with attributes `name`, `position`, and `salary`. Implement the `__init__` method to initialize these attributes when an `Employee` object is created. Additionally, implement a method called `raise_salary` that increases the salary by a given percentage.
+## Repository Structure
+The repository is organized into different sections, each containing a set of coding questions. For each question, you'll find both the problem statement and its solution implemented in Python.
 
-## Instructions
-  
-1. Define the `Employee` class with the `__init__` method.
-2. Implement the `raise_salary` method that adjusts the salary based on a percentage increase.
+## How to Use
 
-## Solution
+1. Browse the repository's folders to find the specific section or question you're interested in.
+2. Inside each question's folder, you'll find a `README.md` file describing the problem statement.
+3. You'll also find the corresponding Python code file (e.g., `solution.py`) containing the solution.
 
-Once you have completed the exercise, you can find the solution in the following file:
-https://github.com/Itzsshashank/Python_Mini_Questions/blob/main/Raised_Salary.py
+
+## Contributions
+
+Contributions to this repository are welcome! If you have a coding question and solution in Python that you'd like to share, please feel free to submit a pull request. Make sure to follow the existing folder structure and formatting guidelines.
+
+## Table of Contents
+
+Here's a brief overview of the sections and questions available in this repository:
+
+## Questions
+
+- [Question 1: Student Class: Attributes, __Init__, Average Grade Calculation.](Average_Grades/README.md)
+- [Question 2: Employee Class: Attributes, Method, Salary Increase in Python](Raised_Salary/README.md)
+
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
+
+Happy coding!
