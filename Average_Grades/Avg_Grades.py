@@ -1,14 +1,19 @@
-class Employee:
-    def __init__(self, name, position, salary: int):
+class Students:
+    def __init__(self, name, age, grades):
         self.name = name
-        self.position = position
-        self.salary = salary
+        self.age = age
+        self.grades = grades
 
-    def raise_salary(self, percentage):
-        increase = (percentage / 100) * self.salary
-        self.salary += increase
+    def average_grade(self):
+        total = sum(self.grades)
+        average = total / len(self.grades)
+        return average
 
-percentage1 = 10
-employee = Employee("Shashank", "CEO", 100000)
-employee.raise_salary(percentage1)
-print(f"{employee.name} is a {employee.position} with a salary of Rupees: {employee.salary}")
+# Example grades as a list of numbers
+example_grades = [90, 85, 92, 78, 95]
+
+# Create an instance of the Students class
+student = Students("Shashank", 18, example_grades)
+
+# Call the average_grade method and print the result
+print("Average Grade:", student.average_grade())
