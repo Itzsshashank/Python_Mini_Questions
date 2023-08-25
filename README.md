@@ -18,6 +18,5 @@ This repository contains an exercise involving the creation of an `Employee` cla
 
 ## Solution
 
-Once you have completed the exercise, you can link your solution repository or code file here.
-
-<!-- [https://github.com/Itzsshashank/Python_Mini_Questions/blob/main/Raised_Salary.py](#) -->
+Once you have completed the exercise, you can find the solution in the following file:
+(https://github.com/Itzsshashank/Python_Mini_Questions/blob/main/Raised_Salary.py)
