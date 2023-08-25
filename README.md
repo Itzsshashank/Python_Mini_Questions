@@ -25,8 +25,4 @@ Here's a brief overview of the sections and questions available in this reposito
 - [Question 2: Employee Class: Attributes, Method, Salary Increase in Python](Raised_Salary/README.md)
 
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 Happy coding!
