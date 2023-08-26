@@ -6,4 +6,4 @@ Create a class called `Student` that represents a student with attributes `name`
 2. Implement the `average_grade` method that calculates the average of the grades.
 
 ## Solution
-This is the solution for the following Questoion: https://github.com/shuklagit/Python_Mini_Questions/blob/main/Average_Grades/Avg_Grades.py
+This is the solution for the following Questoion: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Average_Grades/Avg_Grades.py
