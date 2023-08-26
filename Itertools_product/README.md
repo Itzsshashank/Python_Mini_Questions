@@ -43,4 +43,4 @@ Sample Output:
 
 ## Solution
 This is the solution for the following Questoion:
-https://github.com/shuklagit/Python_Mini_Questions/blob/main/Itertools_product/itertools_product.py
+https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Itertools_product/itertools_product.py
