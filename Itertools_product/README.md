@@ -1,4 +1,4 @@
-## Cartesian Product ( Itertools Product)
+## Cartesian Product [Itertools Product](https://docs.python.org/3/library/itertools.html)
 This tool computes the [cartesian product](https://en.wikipedia.org/wiki/Cartesian_product) of input iterables.
 It is equivalent to nested for-loops.
 For example, product(A, B) returns the same as ((x,y) for x in A for y in B).
@@ -21,7 +21,8 @@ Output Format
 Output the space separated tuples of the cartesian product.
 
 Sample Input:
- 1 2
- 3 4
+''' 1 2
+    3 4
+ 
 Sample Output:
 (1, 3) (1, 4) (2, 3) (2, 4)
