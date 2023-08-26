@@ -23,7 +23,7 @@ Here's a brief overview of the sections and questions available in this reposito
 
 - [Question 1: Student Class: Attributes, __Init__, Average Grade Calculation.](Average_Grades/README.md)
 - [Question 2: Employee Class: Attributes, Method, Salary Increase in Python](Raised_Salary/README.md)
-- [Question 3: Python: Cartesian Product of Two Sorted Lists](Itertools_product/itertools_product.py)
+- [Question 3: Python: Cartesian Product of Two Sorted Lists](Itertools_product/README.md)
 
 
 Happy coding!
