@@ -10,4 +10,4 @@ Create a class called `Employee` that represents an employee with attributes `na
 ## Solution
 
 Once you have completed the exercise, you can find the solution in the following file:
-https://github.com/shuklagit/Python_Mini_Questions/blob/main/Raised_Salary/Raised_salary.py
+https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Raised_Salary/Raised_salary.py
