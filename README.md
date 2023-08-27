@@ -24,6 +24,7 @@ Here's a brief overview of the sections and questions available in this reposito
 - [Question 1: Student Class: Attributes, __Init__, Average Grade Calculation.](Average_Grades/README.md)
 - [Question 2: Employee Class: Attributes, Method, Salary Increase in Python](Raised_Salary/README.md)
 - [Question 3: Python: Cartesian Product of Two Sorted Lists](Itertools_product/README.md)
+- [Question 4: Generate sorted permutations of string S with size k.](https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Itertools%20Permutation/README.md)
 
 
 Happy coding!
