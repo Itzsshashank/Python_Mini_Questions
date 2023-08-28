@@ -1,9 +1,3 @@
-
-# FizzBuzz Challenge
-
-## Context
-The FizzBuzz challenge is a programming exercise. It tests your understanding of conditional statements and loops.
-
 ## Problem Statement
 Write a program that prints the numbers from 1 to 100. However, for multiples of three, print "Fizz" instead of the number, and for the multiples of five, print "Buzz". For numbers which are multiples of both three and five, print "FizzBuzz".
 
