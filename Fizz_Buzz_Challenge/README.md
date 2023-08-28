@@ -49,9 +49,5 @@ Buzz
 Fizz
 ```
 
-## Explanation
-The program iterates through the numbers from 1 to 100. For each number, it follows the rules of printing "Fizz" for multiples of three, "Buzz" for multiples of five, and "FizzBuzz" for multiples of both three and five. The sample output showcases the FizzBuzz sequence up to 16.
-
-
-**Note:**
-In this Python program, the `fizz_buzz()` function iterates through numbers from 1 to 100 using a loop. It checks the divisibility of each number by 3 and 5 and prints the appropriate output accordingly. This solution provides a clear and concise way to solve the FizzBuzz challenge.
+## Solution
+This is the soolution for the following question: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Fizz_Buzz_Challenge/Fizz_Buzz.py
