@@ -20,7 +20,7 @@ Enter a number: 17
 Prime
 ```
 
-#### Notes:
+#### Note:
 - The program takes user input, checks if the input number is prime using the `is_prime` function, and then prints the appropriate message.
 
 ## Solution:
