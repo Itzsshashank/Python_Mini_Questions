@@ -1,4 +1,4 @@
-## Question:
+## Prime Number Question:
 Write a Python program that takes an integer as input and prints whether it's a prime number or not.
 
 ### Context:
