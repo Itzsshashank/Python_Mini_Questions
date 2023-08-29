@@ -1,6 +1,6 @@
 # Employee Class Exercise
 
-Create a class called `Employee` that represents an employee with attributes `name`, `position`, and `salary`. Implement the `__init__` method to initialize these attributes when an `Employee` object is created. Additionally, implement a method called `raise_salary` that increases the salary by a given percentage.
+Create a class called Employee that represents an employee with attributes name, position, and salary. Implement the `__init__` method to initialize these attributes when an Employee object is created. Additionally, implement a method called `raise_salary` that increases the salary by a given percentage.
 
 ## Instructions
   
