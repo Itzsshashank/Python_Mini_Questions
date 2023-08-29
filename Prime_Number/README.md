@@ -24,4 +24,4 @@ Prime
 - The program takes user input, checks if the input number is prime using the `is_prime` function, and then prints the appropriate message.
 
 ## Solution:
-The Solution for the above question is: 
+The Solution for the above question is: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Prime_Number/Prime_Number.py
