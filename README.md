@@ -26,6 +26,7 @@ Here's a brief overview of the sections and questions available in this reposito
 - [Question 3: Python: Cartesian Product of Two Sorted Lists](Itertools_product/README.md)
 - [Question 4: Generate sorted permutations of string S with size k.](https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Itertools%20Permutation/README.md)
 - [Question 5: FizzBuzz Challenge: Number printing with multiples replaced.](Fizz_Buzz_Challenge/README.md)
+- [Question 6: Prime Number: Print whether number is Prime or Not.](Prime_Number/README.md)
 
 
 Happy coding!
