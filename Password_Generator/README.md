@@ -30,4 +30,4 @@ This implementation defines a function that generates a password containing lowe
 
 
 ## Solution:
-This is the solution for the following question: 
+This is the solution for the following question: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Password_Generator/Password_Generator.py
