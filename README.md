@@ -27,6 +27,7 @@ Here's a brief overview of the sections and questions available in this reposito
 - [Question 4: Generate sorted permutations of string S with size k.](https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Itertools%20Permutation/README.md)
 - [Question 5: FizzBuzz Challenge: Number printing with multiples replaced.](Fizz_Buzz_Challenge/README.md)
 - [Question 6: Prime Number: Print whether number is Prime or Not.](Prime_Number/README.md)
+- [Question 7: Password Generator.](Password_Generator/README.md)
 
 
 Happy coding!
