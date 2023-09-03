@@ -44,3 +44,5 @@ Write a program to find and display the common elements between two lists of int
 4. Common elements are added to the `common_elements` list.
 5. Finally, the program prints the common elements.
 
+## Solution: 
+This is the solution for the following question: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/common_elements_finder/common_elements_finder.py
