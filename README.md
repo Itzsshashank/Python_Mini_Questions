@@ -29,6 +29,7 @@ Here's a brief overview of the sections and questions available in this reposito
 - [Question 6: Prime Number: Print whether number is Prime or Not.](Prime_Number/README.md)
 - [Question 7: Password Generator.](Password_Generator/README.md)
 - [Question 8: Basic Calculator.](basic_calculator/README.md)
+- [Question 9: Common Elements Finder.](common_elements_finder/README.md)
 
 
 Happy coding!
