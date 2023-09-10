@@ -31,3 +31,6 @@ Time Up
 
 - You can use the `time` module in Python to manage time-related operations.
 - Consider handling invalid input (e.g., negative numbers or non-integer input) gracefully.
+
+## Solution
+Solution for the above questions is: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Countdown_Timer/Countdown_Timer.py
