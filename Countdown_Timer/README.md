@@ -1,6 +1,3 @@
-Certainly! Here's the question formatted as a README.md file that you can paste on GitHub:
-
-
 # Countdown Timer Program in Python
 
 Create a Python program that functions as a countdown timer. The program should take input in seconds from the user and display the remaining time in the format "HH:MM:SS" as it counts down. Once the timer reaches zero, a text can be displayed, ex. "  TIMES UP!!"
