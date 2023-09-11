@@ -29,4 +29,4 @@ print(result)
 - The function should split the sentence into words, remove punctuation, convert each word to lowercase for consistency, and count the frequency of each word in the dictionary.
 
 ## Solution: 
-The solution for the above question is: https://github.com/itzsshashank/Python_Mini_Questions/tree/main/Word_Frequency_Counter
+The solution for the above question is: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Word_Frequency_Counter/Word_Frequency_Counter.py
