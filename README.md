@@ -32,6 +32,7 @@ Here's a brief overview of the sections and questions available in this reposito
 - [Question 9: Common Elements Finder.](common_elements_finder/README.md)
 - [Question 10: Countdown Timer.](Countdown_Timer/README.md)
 - [Question 11: Word Frequency Counter.](Word_Frequency_Counter/README.md)
+- [Question 12: Merge & Sum Dictionary of Common Keys.](Merge&Sum_Dict_Of_Same_Keys/README.md)
 
 
 Happy coding!
