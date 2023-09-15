@@ -39,3 +39,6 @@ print(result)
 
 - The function `merge_dictionaries` should iterate through the input dictionaries and create a new dictionary containing the merged result. If a key exists in both dictionaries, the values should be summed.
 - Ensure that the function handles cases where keys exist only in one of the dictionaries correctly.
+
+## Solution:
+The soultion ffor the aboove problem statement is: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Merge%26Sum_Dict_Of_Same_Keys/Merge%26Sum_Dict_Of_Same_Keys.py
