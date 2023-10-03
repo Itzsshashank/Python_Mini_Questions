@@ -33,4 +33,4 @@ Standard Deviation: 7.07
 ---
 
 ## Solution: 
-The solution for the above Question is: 
+The solution for the above Question is: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Statistical_Calculations/Statistical_Calculations.py
