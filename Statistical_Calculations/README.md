@@ -31,3 +31,6 @@ Standard Deviation: 7.07
 - Standard Deviation is a measure of how spread out the numbers are from the mean.
 
 ---
+
+## Solution: 
+The solution for the above Question is: 
