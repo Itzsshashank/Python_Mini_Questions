@@ -12,3 +12,6 @@ Output: 3
 
 **Explanation:**
 In the given example, list of integers contains various numbers. The most common integer is 3, which appears four times in the list, making it the most common. If there is a tie, then the first integer with the highest count is selected.
+
+## Solution:
+Solution for the above Question is: https://github.com/itzsshashank/Python_Mini_Questions/blob/main/Most_Common_Numbers/Solution.py
